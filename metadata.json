@@ -1,0 +1,8 @@
+{
+  "name": "sumatif ke-3 bahasa bali",
+  "description": "Aplikasi Tes Sumatif Bahasa Bali Kelas VI SD Negeri 3 Loloan Timur Materi Kruna Wilangan 200-1000, Nyambatang Adan Pipis, dan Kruna Wilangan Pepasten dengan 35 butir soal, KKTP 60, unduh naskah Word & PDF, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
